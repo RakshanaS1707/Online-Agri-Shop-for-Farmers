@@ -1,17 +1,16 @@
 # Online-Agri-Shop
 
 ![image](https://github.com/RakshanaS1707/Online-Agri-Shop-for-Farmers/assets/117162224/4348024f-d311-40e4-8a0f-881aca242f52)
-![image](https://github.com/RakshanaS1707/Online-Agri-Shop-for-Farmers/assets/117162224/f923e3e8-df54-4d3b-bc02-d6c43cd7cf70)
-![image](https://github.com/RakshanaS1707/Online-Agri-Shop-for-Farmers/assets/117162224/8db03269-d7c4-4f17-b7ab-57e8da57d0c8)
-![image](https://github.com/RakshanaS1707/Online-Agri-Shop-for-Farmers/assets/117162224/c52c2dab-0d7c-4a26-93bb-2cf10e0c9006)
-![image](https://github.com/RakshanaS1707/Online-Agri-Shop-for-Farmers/assets/117162224/acdb1641-264d-4ff9-9055-c28866796fec)
-![image](https://github.com/RakshanaS1707/Online-Agri-Shop-for-Farmers/assets/117162224/4e196a50-dc6c-4d70-9814-393865ed9e97)
-![image](https://github.com/RakshanaS1707/Online-Agri-Shop-for-Farmers/assets/117162224/1804b4f6-8caf-4a02-b6a1-3bb241d3106c)
-![image](https://github.com/RakshanaS1707/Online-Agri-Shop-for-Farmers/assets/117162224/757fd781-f0be-4ed2-b229-da1aad62a692)
-![image](https://github.com/RakshanaS1707/Online-Agri-Shop-for-Farmers/assets/117162224/99145c71-8854-4289-9335-cb53781d7f0c)
-![image](https://github.com/RakshanaS1707/Online-Agri-Shop-for-Farmers/assets/117162224/e0e60ffc-1be2-4191-801c-e4cdc8c6e317)
-![image](https://github.com/RakshanaS1707/Online-Agri-Shop-for-Farmers/assets/117162224/e32e2b4c-1688-4641-8921-86bb36fbd339)
-
+![image](https://github.com/RakshanaS1707/Online-Agri-Shop-for-Farmers/assets/117162224/3b6a11c2-3846-478a-8faa-f5dc28de2034)
+![image](https://github.com/RakshanaS1707/Online-Agri-Shop-for-Farmers/assets/117162224/8cd04f5c-74ee-42df-9d81-3a8ec76cc928)
+![image](https://github.com/RakshanaS1707/Online-Agri-Shop-for-Farmers/assets/117162224/92f84896-5e20-4d51-ab52-30d5cc56b7ce)
+![image](https://github.com/RakshanaS1707/Online-Agri-Shop-for-Farmers/assets/117162224/6ca906de-cb61-439c-afd1-c6a8663bba81)
+![image](https://github.com/RakshanaS1707/Online-Agri-Shop-for-Farmers/assets/117162224/af337e64-3ddc-4bc1-9796-a835796abf58)
+![image](https://github.com/RakshanaS1707/Online-Agri-Shop-for-Farmers/assets/117162224/5fede9fe-b8c0-499f-a524-ac824e463275)
+![image](https://github.com/RakshanaS1707/Online-Agri-Shop-for-Farmers/assets/117162224/f84a4781-f024-4148-9763-bf285e62dab7)
+![image](https://github.com/RakshanaS1707/Online-Agri-Shop-for-Farmers/assets/117162224/0197332b-bea9-4d55-84c7-3b83fe85dae4)
+![image](https://github.com/RakshanaS1707/Online-Agri-Shop-for-Farmers/assets/117162224/924893ae-82c3-4120-b594-fb535f3bc3ce)
+![image](https://github.com/RakshanaS1707/Online-Agri-Shop-for-Farmers/assets/117162224/6430b66d-0c68-46d3-b42c-d0058107d90f)
 
 
 
