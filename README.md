@@ -1,4 +1,4 @@
-# Online-Agri-Shop-for-Farmers
+# Online-Agri-Shop
 
 ![image](https://github.com/RakshanaS1707/Online-Agri-Shop-for-Farmers/assets/117162224/4348024f-d311-40e4-8a0f-881aca242f52)
 ![image](https://github.com/RakshanaS1707/Online-Agri-Shop-for-Farmers/assets/117162224/f923e3e8-df54-4d3b-bc02-d6c43cd7cf70)
